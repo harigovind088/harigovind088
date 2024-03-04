@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/harigovind088](https://github.com/harigovind088)
 
-- 📫 How to reach me **haritheprogrammer@gmail.com**
+- 📫 How to reach me **harigovinds2471@gmail.com**
 
 - ⚡ Fun fact **I'm Still Coding.....**
 
